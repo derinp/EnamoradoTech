@@ -12,4 +12,4 @@ Following this Microsoft Learn document, I was able to set up all the required D
 
 After a successful setup of all the DNS records, we are now able to send emails. The very first email was sent to our Director of Engineering, Amy!
 
-![first Email](main/images/firstemail.png)
+![screenshot of first email.](https://github.com/derinp/EnamoradoTech/blob/main/images/firstemail.png)
