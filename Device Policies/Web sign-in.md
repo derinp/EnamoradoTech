@@ -25,5 +25,5 @@ Learn more about TAPs and web sign-in:
 
 Authentication with Temporary Access Pass
 Web Sign-In in Windows
-After completing these steps, we are now able to utilize web sign-in on Enamorado Tech O365 tenant machines:
-
+After completing these steps, we are now able to utilize web sign-in on Enamorado Tech O365 tenant machines as indicated by the globe icon on the log in page:
+![screenshot of first email.](https://github.com/derinp/EnamoradoTech/blob/main/images/websignin.png)
