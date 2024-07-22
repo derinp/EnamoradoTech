@@ -1,4 +1,4 @@
-## Configuring Remote Help
+## Objective
 We will be configuring remote help for devices. This will allow us to  remote into devices within our tenant.
 
 ## Configuration
